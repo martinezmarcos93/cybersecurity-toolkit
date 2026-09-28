@@ -1,4 +1,4 @@
-# 🛡️ CyberToolkit
+# 🛡️ Cybersecurity Toolkit
 
 > Suite educativa de ciberseguridad con 10 herramientas operativas para aprendizaje práctico en entornos controlados.
 
@@ -14,7 +14,7 @@ Este proyecto es **exclusivamente educativo**. Todas las herramientas están dis
 
 ## 📋 Descripción
 
-CyberToolkit es una suite de 10 herramientas de ciberseguridad accesibles desde un único menú interactivo de línea de comandos. Está pensada para estudiantes y profesionales que quieran aprender conceptos fundamentales de seguridad informática — redes, criptografía, forense digital, OSINT — programando y ejecutando herramientas reales.
+Cybersecurity Toolkit (dentro de la aplicación se identifica como **CyberToolkit**) es una suite de 10 herramientas de ciberseguridad accesibles desde un único menú interactivo de línea de comandos. Está pensada para estudiantes y profesionales que quieran aprender conceptos fundamentales de seguridad informática — redes, criptografía, forense digital, OSINT — programando y ejecutando herramientas reales.
 
 **v1.0 — 10/10 herramientas implementadas y operativas.**
 
@@ -23,7 +23,7 @@ CyberToolkit es una suite de 10 herramientas de ciberseguridad accesibles desde 
 ## 🗂️ Estructura del Proyecto
 
 ```
-CyberToolkit/
+cybersecurity-toolkit/
 ├── README.md                    # Este archivo
 ├── requirements.txt             # Dependencias externas con versiones exactas
 ├── main.py                      # Punto de entrada — menú interactivo principal
@@ -86,8 +86,8 @@ CyberToolkit/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/CyberToolkit.git
-cd CyberToolkit
+git clone https://github.com/martinezmarcos93/cybersecurity-toolkit.git
+cd cybersecurity-toolkit
 
 # 2. Crear y activar entorno virtual
 python -m venv venv
